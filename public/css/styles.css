@@ -1,0 +1,90 @@
+
+body {
+
+  background-image: url("https://previews.123rf.com/images/prathum/prathum1708/prathum170800044/84740974-abstract-mosaic-background-on-a-simple-presentation-.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #000;
+  background-color: #fff;
+  font-family: "Lucida Console",Monaco,monospace;
+}
+.my_body{
+
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/15/20/08/secret-1142327_1280.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+.my_container{
+  margin-top: 80px;
+}
+
+.fas1{
+  position: relative;
+  margin-left: 45%;
+  margin-top: 1px;
+  height: 200px;
+  width: 200px;
+}
+
+
+
+
+.display-3{
+  text-align: center;
+}
+
+
+.lead{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-family: "Lucida Console",Monaco,monospace;
+  color: #6e7480;
+}
+
+#container{
+  text-align: center;
+  margin-top: 200px;
+}
+
+#container1{
+  position:fixed;
+  text-align: center;
+  margin-left: 70%;
+}
+
+.fas2{
+  position: relative;
+  margin-left: 45%;
+  margin-top: 10%;
+  height: 200px;
+  width: 200px;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+#my_p{
+  text-align: center;
+}

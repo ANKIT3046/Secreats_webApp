@@ -1,0 +1,21 @@
+<%- include('partials/header') %>
+
+<div class="container">
+
+    <img class="fas2" src="https://image.flaticon.com/icons/svg/2665/2665329.svg" />
+    <h1 class="display-3">Secrets</h1>
+    <p class="secret-text">Don't keep your secrets, share them anonymously!</p>
+
+    <form action="/submit" method="POST">
+
+      <div class="form-group">
+
+        <textarea type="text" class="form-control text-center" name="secret" placeholder="What's your secret?" rows="5" cols="30"></textarea>
+      </div>
+      <button type="submit" class="btn btn-dark">Submit</button>
+    </form>
+
+
+
+</div>
+<%- include('partials/footer') %>
